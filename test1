@@ -1,0 +1,93 @@
+// Note: Text that comes after "//" is ignored, which allows
+// you to write notes - like the one you're reading now!
+
+title
+  Viridian Plot Generator
+
+output
+  This thread takes place in [location] during [time] and features [noun] and [morenouns].
+  An event that began around [location] is having a(n) [degree] effect on [noun].
+
+location
+  Viridian Station^1.5
+  USS Hypatia
+  Syntaris
+  sickbay
+  engineering
+  a corridor
+  quarters
+  an office
+  a shuttlecraft
+  Heirloom
+  Merenas Market
+  	
+time
+  the daytime
+  the nighttime
+  twilight/dawn^0.1
+  the rain^0.2
+  an ion storm^0.1
+	
+noun
+  Syntari
+  the computer
+  trade
+  food
+  weirdness^0.25
+  color
+  misunderstanding
+  technology
+  bad moods
+  injury^0.75
+  mistakes^0.25
+  
+morenouns
+  substances
+  drinks
+  technology
+  traders/merchants
+  a condition of some kind
+  diplomacy
+  bugs
+  time
+  resources
+  slim patience
+  clothes/shoes
+  plants
+  
+degree
+  massive
+  moderate
+  minimal
+  unmanageable
+  annoying
+  inconvenient
+  troublesome
+  beneficial
+  unexpected
+  perilous
+  concerning
+  amusing
+  hilarious
+  dangerous
+  critical
+  alarming
+  ugly
+
+// Tips:
+//  - Highlight multiple lines and press Tab or Shift+Tab to indent and un-indent them all an once
+//  - You can change the URL of your generator by clicking the "settings" button in the top-right
+//  - Use this template if you want your generator to be vertically centered on the page:  perchance.org/centered-minimal#edit
+//  - Add background images, fonts, and other stuff with plugins: perchance.org/plugins
+//  - This plugin converts text into images using AI: https://perchance.org/text-to-image-plugin
+//  - Here are some templates that you can use to create nice-looking generators without learning HTML and CSS:  perchance.org/templates
+//  - Use the "layout maker" plugin to create complex layouts without learning how to code:  perchance.org/layout-maker-plugin
+//  - Here are some generators you might like to import:  perchance.org/useful-generators
+//  - Read this page after reading the tutorial:  perchance.org/examples
+//  - There's a "wrap" button in the top-right if your lines are really long. If you add   $output=[this.joinItems(" ")]   as the first item in your list, then writing [yourListName] will magically output all of the items joined together, rather than a random item from the "yourListName" list.
+//  - Ask our friendly community members if you need help:  lemmy.world/c/perchance
+// \( ﾟヮﾟ)/
+
+
+
+
